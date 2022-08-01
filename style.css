@@ -1,0 +1,152 @@
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+}
+
+/* --------1st-section--------- */
+.first-section {
+  display: flex;
+  background-image: url(img/top-banner.png);
+  background-repeat: no-repeat;
+}
+.side-border {
+  font-family: "Source Serif Pro", serif;
+  border-left: 3px solid #ff5959;
+  font-size: 40px;
+  font-weight: 800;
+}
+.title-color {
+  color: #ff5959;
+}
+.top-padding {
+  padding-top: 50px;
+}
+.mission-color {
+  color: orange;
+}
+.link-button {
+  text-decoration: none;
+  background-color: #ff5959;
+  color: white;
+  padding: 5px 25px;
+  border-radius: 5px;
+}
+a:hover {
+  color: black;
+  text-decoration: underline;
+}
+.first-width {
+  width: 50%;
+  padding-left: 10%;
+  margin: 20px 20px;
+}
+.first-width img {
+  width: 100%;
+}
+
+/* ----------2nd-section---------- */
+.mission-position {
+  text-align: center;
+  font-size: 30px;
+  font-weight: 900;
+}
+.container {
+  display: flex;
+  margin-bottom: 120px;
+  margin: 10px 150px 50px 135px;
+}
+.second-width {
+  width: 48%;
+  margin-left: 2%;
+  text-align: center;
+  border-radius: 20px;
+  margin-bottom: 100px;
+}
+.second-width p {
+  padding: 0px 10px;
+}
+.bg-color1 {
+  background-color: #edf5f6;
+}
+.bg-color2 {
+  background-color: #ffeeee;
+}
+.bg-color3 {
+  background-color: #fff4d6;
+}
+.second-width img {
+  width: 50%;
+}
+
+/* -- -----------3rd-section------------- -- */
+
+.third-section {
+  display: flex;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-bottom: 150px;
+  background-image: url(img/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: left;
+}
+.title {
+  font-size: 27px;
+  font-weight: 800;
+}
+.third-width {
+  width: 50%;
+}
+.third-width img {
+  width: 65%;
+  padding-left: 18%;
+}
+
+/* -- -----------4th-section------------- -- */
+.fourth-section {
+  display: flex;
+  margin-left: 8%;
+  margin-bottom: 150px;
+}
+.fourth-width {
+  width: 50%;
+  margin-left: 5%;
+}
+.fourth-width img {
+  width: 65%;
+}
+
+/* -- -----------5th-section------------- -- */
+.last-container {
+  display: flex;
+  margin-left: 15%;
+  margin-right: 10%;
+  margin-bottom: 150px;
+}
+.big-font2 {
+  font-size: 45px;
+  font-weight: 800;
+}
+.big-font2-padding {
+  margin-top: -40px;
+}
+.fifth-width {
+  width: 50%;
+}
+.fifth-width img {
+  width: 65%;
+}
+.big-font {
+  font-size: 45px;
+  font-weight: 800;
+  text-align: center;
+  margin-bottom: 65px;
+}
+
+/* ---------footer-section--------- */
+.footer-part {
+  text-align: center;
+  color: #edf5f6;
+  background-color: black;
+  padding-top: 5px;
+  padding-bottom: 20px;
+}
